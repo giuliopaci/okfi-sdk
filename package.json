@@ -1,0 +1,24 @@
+{
+  "name": "okfi-sdk",
+  "main": "./lib/okfi-base.js",
+  "description": "okfi-sdk is a low-level client library to access Keystone and Orion",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orion",
+    "keystone",
+    "openstack",
+    "fiware"
+  ],
+  "author": "Giulio Paci <giuliopaci@gmail.com> (https://github.com/giuliopaci)",
+  "license": "Expat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giuliopaci/okfi-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giuliopaci/okfi-sdk/issues"
+  }
+}
