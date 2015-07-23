@@ -2,7 +2,7 @@
   "name": "okfi-sdk",
   "main": "./lib/okfi-base.js",
   "description": "okfi-sdk is a low-level client library to access Keystone and Orion",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
